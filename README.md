@@ -9,7 +9,7 @@ I'm a 3rd year CS student who likes to press keys and scroll on StackOverflow in
 - 📌 Fun facts:
   - I like tinkering with Raspberry Pis and scripts. No, I'm not hacking anyone or anything (☉_☉)
   - I'm also a 'free-time' music producer — it's more of a hobby.
-  - I love IoT things man.
+  - I love IoT stuff man.
   - I have quite a tendency to start exploring CyberSecurity.
 
 <br>
