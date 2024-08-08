@@ -12,7 +12,7 @@
   - I have quite a tendency to start exploring CyberSecurity.
   - I love IoT stuff man.
 
-Did I mention I have a soft spot for computer networking? It’s the backbone that ties my tech obsessions together.
+Oh, and did I mention? I have a soft spot for computer networking — it’s like the backbone that ties all my tech obsessions together.
 
 <br>
 
