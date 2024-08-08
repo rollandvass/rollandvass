@@ -11,7 +11,7 @@
   - I'm also a 'free-time' music producer — it's more of a hobby.
   - I have quite a tendency to start exploring CyberSecurity.
   - I love IoT stuff man.
-  - Oh, and did I mention? I have a soft spot for computer networking — it’s like the backbone that ties all my tech obsessions together.
+  - Oh, and did I mention? I have a soft spot for computer networking — it’s the backbone that ties my tech obsessions together.
 
 <br>
 
