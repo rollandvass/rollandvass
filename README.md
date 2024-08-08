@@ -24,7 +24,7 @@
 ## Check out my cool website:
 [http://localhost:3000/](http://localhost:3000/)
 
-It's sooo cool. I- I- Isn't it?
+It's sooo cool. I- I- Isn't it? 😔
 
 <br>
 
