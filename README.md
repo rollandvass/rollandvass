@@ -1,4 +1,4 @@
-# Oh, you found me. Hi there, I'm Rolland! 👋
+# Oh - you found me. Hi there, I'm Rolland! 👋
 I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow instead of TikTok. Welcome to my GitHub profile!
 
 <br>
