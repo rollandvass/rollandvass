@@ -21,9 +21,9 @@ I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow in
 <br>
 
 ## Check my cool website out:
-http://localhost:3000/
+[http://localhost:3000/](http://localhost:3000/)
 
-It's soo cool. I-Isn't it?
+It's soo cool. I- I- Isn't it?
 
 <br>
 
