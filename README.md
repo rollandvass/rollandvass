@@ -1,5 +1,5 @@
 # Oh.. you found me. Hi there, I'm Rolland! 👋
-I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow instead of TikTok. Welcome to my GitHub profile!
+I'm a 3rd year CS student who likes to press keys and scroll on StackOverflow instead of TikTok. Welcome to my GitHub profile!
 
 <br>
 
@@ -7,10 +7,11 @@ I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow in
 
 - 👨🏻‍💻 I’m currently learning React & Python
 - 📌 Fun facts:
-  - I like tinkering with Raspberry Pis and Scripts - No, I'm not hacking anyone or anything (☉_ ☉)
-  - I'm also a 'free-time' music producer. It's more like a hobby.
-  - I love IoT stuff man.
-  - I have quite a tendency to explore the CyberSecurity endeavor.
+  - I like tinkering with Raspberry Pis and scripts. No, I'm not hacking anyone or anything (☉_☉)
+  - I'm also a 'free-time' music producer — it's more of a hobby.
+  - I love IoT stuff.
+  - I have a strong interest in exploring CyberSecurity.
+
 <br>
 
 ## My super competitive in-game stats:
@@ -20,10 +21,10 @@ I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow in
 
 <br>
 
-## Check my cool website out:
+## Check out my cool website:
 [http://localhost:3000/](http://localhost:3000/)
 
-It's soo cool. I- I- Isn't it?
+It's sooo cool. I- I- Isn't it?
 
 <br>
 
