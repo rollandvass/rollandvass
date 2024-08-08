@@ -1,4 +1,4 @@
-# Hi there, I'm Rolland! 👋
+# Oh, you found me. Hi there, I'm Rolland! 👋
 I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow instead of TikTok. Welcome to my GitHub profile!
 
 <br>
@@ -17,6 +17,13 @@ I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow in
 
 ![Rolland's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollandvass&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rollandvass&layout=compact&theme=radical)
+
+<br>
+
+## Check my cool website out:
+http://localhost:3000/
+
+It's soo cool. I-Isn't it?
 
 <br>
 
