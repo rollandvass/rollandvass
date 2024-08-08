@@ -5,8 +5,8 @@ I'm a 3rd year CS Student who likes to press keys and scroll on StackOverFlow in
 
 ## About Me
 
-- 🌱 I’m currently learning React & Python
-- ⚡ Fun facts:
+- 👨🏻‍💻 I’m currently learning React & Python
+- 📌 Fun facts:
   - I like tinkering with Raspberry Pis and Scripts - No, I'm not hacking anyone or anything (☉_ ☉)
   - I'm also a 'free-time' music producer. It's more like a hobby.
   - I love IoT stuff man.
