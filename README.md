@@ -1,5 +1,5 @@
 # Oh.. you found me. Hi there, I'm Rolland! 👋
-<h4>I'm a 3rd year Computer Science student who likes to press keys and scroll on Stack Overflow instead of TikTok. Welcome to my profile!</h4>
+<h4>I'm a 3rd year CS student who likes to press keys and scroll on Stack Overflow instead of TikTok. Welcome to my profile!</h4>
 
 <br>
 
