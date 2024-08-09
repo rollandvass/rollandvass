@@ -28,7 +28,7 @@ Oh, and did I mention? I have a soft spot for computer networking — it’s lik
 
 It's sooo cool. I- I- Isn't it? 😔
 
-Alright, you can check this one out, but I warn you, it's not finished yet! 🚧 — https://rollandvass.github.io/
+Alright, you can check this one out, but I warn you, I didn't update production in a while! 🚧 — https://rollandvass.github.io/
 
 <br>
 
