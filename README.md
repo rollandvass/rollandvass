@@ -12,7 +12,7 @@ When in doubt,
 
 - 👨🏻‍💻 I’m currently learning React & Python
 - 📌 Fun facts:
-  - I like tinkering with Raspberry Pis and scripts. No, I'm not hacking anyone or anything (☉_☉)
+  - I like tinkering with Raspberry Pis and scripts. *No, I'm not hacking anyone or anything* (☉_☉)
   - I'm also a 'free-time' music producer — it's more of a hobby.
   - I have quite a tendency to start exploring CyberSecurity.
   - I love IoT stuff.
