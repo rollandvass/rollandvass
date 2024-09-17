@@ -37,8 +37,3 @@ It's sooo cool. I- I- Isn't it? 😔
 Alright, you can check this one out, but I warn you, I didn't push to production in a while! 🚧 — https://rollandvass.github.io/
 
 <br>
-
-## Contact
-
-- LinkedIn: [Rolland-Kristian Vass](https://www.linkedin.com/in/rollandvass)
-- Email: vrollandvass@yahoo.com (please don't spam me)
