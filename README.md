@@ -14,7 +14,7 @@ When in doubt,
 - 📌 Fun facts:
   - I like tinkering with Raspberry Pis and scripts. *No, I'm not hacking anyone or anything* (☉_☉)
   - I'm also a 'free-time' music producer — it's more of a hobby.
-  - I have fun exploring CyberSecurity (and also Linux, hehe)
+  - I have fun exploring Cybersecurity/InfoSec (and also Linux, hehe)
   - I love IoT stuff.
   - No, I'm not wearing glasses anymore if you were wondering. 🧐
 
