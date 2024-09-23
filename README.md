@@ -10,11 +10,11 @@ When in doubt,
 
 ## About Me
 
-- 👨🏻‍💻 I’m currently learning React & Python
+- 👨🏻‍💻 I’m currently learning React, Next.js and Python
 - 📌 Fun facts:
   - I like tinkering with Raspberry Pis and scripts. *No, I'm not hacking anyone or anything* (☉_☉)
   - I'm also a 'free-time' music producer — it's more of a hobby.
-  - I'm having fun exploring Cybersecurity/InfoSec (and also Linux, hehe)
+  - I'm having fun exploring Cybersecurity/InfoSec along with Linux
   - I love IoT stuff.
   - No, I'm not wearing glasses anymore if you were wondering. 🧐
 
@@ -24,7 +24,7 @@ Oh, and did I mention? I have a soft spot for computer networking — it’s lik
 
 ## My super competitive in-game stats:
 
-![Rolland's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollandvass&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=rollandvass&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rollandvass&layout=compact&theme=radical)
 
 <br>
