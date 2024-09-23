@@ -14,7 +14,7 @@ When in doubt,
 - 📌 Fun facts:
   - I like tinkering with Raspberry Pis and scripts. *No, I'm not hacking anyone or anything* (☉_☉)
   - I'm also a 'free-time' music producer — it's more of a hobby.
-  - I'm having fun exploring Cybersecurity/InfoSec along with Linux
+  - I'm having fun exploring Cybersecurity/InfoSec along with Linux.
   - I love IoT stuff.
   - No, I'm not wearing glasses anymore if you were wondering. 🧐
 
@@ -35,5 +35,4 @@ Oh, and did I mention? I have a soft spot for computer networking — it’s lik
 It's sooo cool. I- I- Isn't it? 😔
 
 Alright, you can check this one out, but I warn you, I didn't push to production in a while! 🚧 — https://rollandvass.github.io/
-
 <br>
