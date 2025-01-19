@@ -13,7 +13,7 @@ When in doubt,
 - 👨🏻‍💻 I’m currently into Python and Cybersecurity
 - 📌 Fun facts:
   - I like tinkering with Raspberry Pis and scripts. *No, I'm not hacking anyone* (☉_☉)
-  - I use Arch and Vim btw. (no, I'm actually joking)
+  - I use Arch and Vim btw. (no, I'm actually joking. ew.)
   - I love IoT stuff.
   - No, I'm not wearing glasses anymore if you were wondering. 🧐
 
