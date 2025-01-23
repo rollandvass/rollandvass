@@ -28,10 +28,11 @@ Oh, and did I mention? I have a soft spot for computer networking — it’s lik
 
 <br>
 
-## Check out my cool website:
+## Check out my portfolio website:
 [http://localhost:3000/](http://localhost:3000/)
 
 It's sooo cool. I- I- Isn't it? 😔
 
-Alright, you can check this one out, but I warn you, I didn't push to prod in a while! 🚧 — https://rollandvass.github.io/
+Alright, you can check this one out, but I warn you, I didn't push to prod in a while! 🚧
+https://rollandvass.github.io/
 <br>
