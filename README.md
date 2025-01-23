@@ -10,7 +10,7 @@ When in doubt,
 
 ## About Me
 
-- 👨🏻‍💻 I’m currently into Python and Cybersecurity
+- 👨🏻‍💻 I’m currently into Python, AI&ML and Cybersecurity
 - 📌 Fun facts:
   - I like tinkering with Raspberry Pis and scripts. *No, I'm not hacking anyone* (☉_☉)
   - I use Arch and Vim btw. (no, I'm actually joking. ew.)
@@ -33,5 +33,5 @@ Oh, and did I mention? I have a soft spot for computer networking — it’s lik
 
 It's sooo cool. I- I- Isn't it? 😔
 
-Alright, you can check this one out, but I warn you, I didn't push to production in a while! 🚧 — https://rollandvass.github.io/
+Alright, you can check this one out, but I warn you, I didn't push to prod in a while! 🚧 — https://rollandvass.github.io/
 <br>
