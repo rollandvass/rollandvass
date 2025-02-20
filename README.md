@@ -34,7 +34,7 @@ And I'm not one, it's true...
 Kali's a treasure,<br>
 Until I ```apt upgrade```,<br>
 Then I’ll spend my whole day<br>
-Searching for aid.
+Searching for first aid.
 
 <br>
 
