@@ -51,6 +51,8 @@ It's sooo cool. I- I- Isn't it? 😔
 Alright, you can check this one out, but I warn you, I didn't push to prod in a while! 🚧
 https://rollandvass.github.io/
 
+<br>
+
 Also, I "wrote" my first ever cybersecurity-related article, take a look:
 [https://securitypatch.ro/vulnerabilitatea-cve-2022-40648-exploatata-de-belsen-group/](https://securitypatch.ro/vulnerabilitatea-cve-2022-40648-exploatata-de-belsen-group/)
 <br>
