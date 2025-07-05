@@ -16,7 +16,6 @@ When in doubt,
   - As of July 2025, I am a SOC Analyst Intern.
   - I like tinkering with Raspberry Pis and scripts. *I promise I'm not hacking anyone* (☉_☉)
   - I love IoT stuff.
-  - I'm not wearing glasses anymore in case you were wondering. 🧐
   - Not a fun fact, but a genuine question: KDE or XFCE? (no, Gnome's not an option)
 
 <br>
