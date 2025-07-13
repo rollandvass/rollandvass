@@ -39,6 +39,7 @@ Searching for first aid.
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=rollandvass&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rollandvass&layout=compact&theme=radical)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/0xRolland.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/0xRolland)
 
 <br>
 
