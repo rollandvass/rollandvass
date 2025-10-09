@@ -53,6 +53,6 @@ https://rollandvass.github.io/
 
 <br>
 
-Also, I "wrote" my first ever cybersecurity-related article, take a look:
+Also, I contributed in writing my first ever cybersecurity-related article, take a look:
 [https://securitypatch.ro/vulnerabilitatea-cve-2022-40648-exploatata-de-belsen-group/](https://securitypatch.ro/vulnerabilitatea-cve-2022-40648-exploatata-de-belsen-group/)
 <br>
