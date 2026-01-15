@@ -1,5 +1,5 @@
 # Oh.. you found me. Hi there, I'm Rolland! 👋
-<h4>I'm a CS graduate who likes to press keys and scroll on Stack Overflow instead of TikTok. Welcome to my profile!</h4>
+<h4>SOC Analyst</h4>
 
 The rule I go by in life:
 ```java
@@ -11,9 +11,8 @@ When in doubt,
 
 ## About Me
 
-- 👨🏻‍💻 I’m into AI&ML and Cybersecurity.
+- 👨🏻‍💻 I’m into AI&ML as well.
 - 📌 Fun facts:
-  - As of July 2025, I am a SOC Analyst Intern.
   - I like tinkering with Raspberry Pis and scripts. *I promise I'm not hacking anyone* (☉_☉)
   - I love IoT stuff.
   - Not a fun fact, but a genuine question: KDE or XFCE? (no, Gnome's not an option)
